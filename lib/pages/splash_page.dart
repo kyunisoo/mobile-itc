@@ -25,7 +25,7 @@ class _SplashPageState extends State<SplashPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/profil.JPG',
+              'assets/logo.png',
               width: 150,
             ),
             const SizedBox(height: 14),
