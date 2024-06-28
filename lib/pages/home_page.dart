@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: MediaQuery.of(context).size.height / 6,
+        toolbarHeight: MediaQuery.of(context).size.height / 6, 
         backgroundColor: const Color.fromRGBO(59, 102, 168, 1.0),
         shape: const RoundedRectangleBorder(
           borderRadius: BorderRadius.only(
