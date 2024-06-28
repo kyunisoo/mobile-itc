@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
               ),
               DivisiItem(
                 title: "Office\nAdministration",
-                imageSource: "assets/digital_marketing.png",
+                imageSource: "assets/coba.png",
               ),
             ],
           ),
